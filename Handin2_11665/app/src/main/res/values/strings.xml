@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Handin2_11665</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_start">Start timer</string>
+    <string name="title_activity_alarm_view">AlarmView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="enter_number">Number of seconds before alarm should fire: </string>
+    <string name="enter_msg">Message to show when alarm fires: </string>
+
+</resources>
